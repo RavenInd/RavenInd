@@ -92,12 +92,6 @@
       </a>
       <br>Redux
     </td>
-   <td align="center" width="110" height="90">
-      <a href="#ravenind-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
   </tr> 
     <tr>
     <td align="center" width="110" height="90"> 
