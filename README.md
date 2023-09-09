@@ -202,4 +202,5 @@
   </tr> 
 </table>
 
-<p><img style="border-raius: 8px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RavenInd&" alt="RavenInd" /></p>
+## 📈 GitHub Stats 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RavenInd&theme=dark&background=000000)](https://git.io/streak-stats)
