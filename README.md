@@ -164,7 +164,7 @@
   <tr>
      <td align="center" width="110" height="90"> 
       <a href="#ravenind-stack" >
-        <img src="https://cdn.jsdelivr.net/gh/RavenInd/RavenInd@master/bllitz.svg" width="36" height="36" alt="Doocker" />
+        <img src="./bllitz.svg" width="36" height="36" alt="Doocker" />
       </a>
       <br>Blitz.js
     </td>
