@@ -196,4 +196,4 @@
   </tr> 
 </table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RavenInd&" alt="RavenInd" /></p>
+<p><img style="border-raius: 8px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RavenInd&" alt="RavenInd" /></p>
