@@ -100,12 +100,6 @@
       </a>
       <br>Webpack
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#ravenind-stack" >
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
     <td align="center" width="110" height="90">
       <a href="#ravenind-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
@@ -143,11 +137,23 @@
       </a>
       <br>MongoDB
     </td>
-        <td align="center" width="110" height="90"> 
+    <td align="center" width="110" height="90"> 
       <a href="#ravenind-stack" >
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" width="36" height="36" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#ravenind-stack" >
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" width="36" height="36" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#ravenind-stack" >
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" width="36" height="36" alt="Doocker" />
+      </a>
+      <br>Docker
     </td>
   </tr> 
 </table>
