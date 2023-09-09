@@ -158,19 +158,6 @@
   </tr> 
 </table>
 
-> Full-stack
-
-<table width='100%'>
-  <tr>
-     <td align="center" width="110" height="90"> 
-      <a href="#ravenind-stack" >
-        <img src="./bllitz.svg" width="36" height="36" alt="Doocker" />
-      </a>
-      <br>Blitz.js
-    </td>
-  </tr> 
-</table>
-
 > Testing
 
 <table width='100%'>
