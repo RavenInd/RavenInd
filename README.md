@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
    </a>
 
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/sam-kravtsevich/)">
+  <a href="https://www.linkedin.com/in/sam-kravtsevich/">
     <img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
