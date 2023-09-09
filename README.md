@@ -155,12 +155,6 @@
       </a>
       <br>MongoDB
     </td>
-     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
   </tr> 
 </table>
 
@@ -175,12 +169,6 @@
       <br>Jest
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="React testing library" />
-      </a>
-      <br>RT library
-    </td>
-        <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="Storybook" />
       </a>
