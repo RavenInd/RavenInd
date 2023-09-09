@@ -151,7 +151,7 @@
     </td>
         <td align="center" width="110" height="90"> 
       <a href="#ravenind-stack" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" alt="PostgreSQL" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" width="36" height="36" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
     </td>
